@@ -40,8 +40,7 @@ For Linux, you might run:
 chmod +x ollama-installer.sh
 sudo ./ollama-installer.sh
 
-
-# LMstudio Installation and Running Models
+**# LMstudio Installation and Running Models**
 
 This guide will walk you through the process of installing LMstudio locally and running models on it.
 
